@@ -36,7 +36,7 @@
 - [`npm`](https://www.npmjs.com/get-npm)
 - [`react-native`](https://facebook.github.io/react-native/docs/getting-started)
 - [`react-native-cli`](https://facebook.github.io/react-native/docs/getting-started)
-- [`Backend Kebon.id`](https://github.com/AdmiralYuuShi/Backend-Kebonid.git)
+- [`Backend Kebon.id`](https://github.com/kurniawandenyy/Backend-Kebonid.git)
 
 ## Usage for development
 
@@ -91,7 +91,7 @@ API_KEY_PHOTO=YOUR_HOST_PHOTO
 
 ## Related Project (Backend)
 
-- [`Backend Kebon.id`](https://github.com/AdmiralYuuShi/Backend-Kebonid.git)
+- [`Backend Kebon.id`](https://github.com/kurniawandenyy/Backend-Kebonid.git)
 
 ## Contributors
 
